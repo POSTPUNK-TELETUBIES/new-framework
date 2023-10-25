@@ -1,5 +1,31 @@
 # Data Providers
 
+## Installation
+
+### Prerequisites
+As prerequisites, we need to take into account the following:
+```json
+"react": ">=16.9.0"
+"react-dom": ">=16.9.0"
+```
+
+To install this library, depending on your package manager, follow these steps:
+
+- Using  **npm**:
+```bash
+npm i data_providers
+```
+
+- Using  **yarn**:
+```bash
+yarn add data_providers
+```
+
+- Using  **pnpm**:
+```bash
+pnpm add data_providers
+```
+
 ## hooks
 
 ### useCreateOne
